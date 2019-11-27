@@ -5,7 +5,7 @@ BASE_HOA = {
 }
 
 
-def add_character(show, name)
-  # Write your implementation here
-  # Should return the array of the 'show' argument
+def Steve_Harvey(show, name)
+ :show => ["tv"] # Write your implementation here
+ :name => ["Family Fued"]# Should return the array of the 'show' argument
 end
