@@ -4,8 +4,10 @@ BASE_HOA = {
   :jetsons => ["George", "Jane", "Judy", "Elroy"]
 }
 
+end
 
-def add_character(show, name)
+def add_character = {(show, name)
+BASE_HOA => [:chipmunks] << "Dave", [:third_earthers] << "snarf", [:jettson] << "snarf"
   # Write your implementation here
   # Should return the array of the 'show' argument
 end
