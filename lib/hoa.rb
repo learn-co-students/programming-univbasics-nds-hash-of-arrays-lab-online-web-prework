@@ -6,6 +6,7 @@ BASE_HOA = {
 
 
 def add_character(show, name)
-  # Write your implementation here
+  BASE_HOA << :Boss_baby = ["name1","name2","name3"]
   # Should return the array of the 'show' argument
+  p BASE_HOA[0][0]
 end
